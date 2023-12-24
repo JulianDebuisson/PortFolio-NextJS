@@ -1,0 +1,47 @@
+{
+  "Acceuille": "Bonjour, je m'appelle Julian Debuisson. Je suis un développeur étudiant en BUT Informatique à l'IUT de Lens. Je vais sur se site vous présenter mes projets et mes compétences.",
+
+
+  "projets": [
+    {
+      "id": 1,
+      "name": "projet1",
+      "description": "description1",
+      "image": "/img/DebuissonJulian.jpg"
+    },
+    {
+      "id": 2,
+      "name": "projet2",
+      "description": "description2",
+      "image": "/img/DebuissonJulian.jpg"
+    },
+    {
+      "id": 3,
+      "name": "projet3",
+      "description": "description3",
+      "image": "/img/DebuissonJulian.jpg"
+    }
+  ],
+
+
+  "competences": [
+    {
+      "id": 1,
+      "name": "Python",
+      "image": "/img/Python.svg",
+      "principale": true
+    },
+    {
+      "id": 2,
+      "name": "competence2",
+      "image": "/img/DebuissonJulian.jpg",
+      "principale": false
+    },
+    {
+      "id": 3,
+      "name": "competence3",
+      "image": "/img/DebuissonJulian.jpg",
+      "principale": false
+    }
+  ]
+}
