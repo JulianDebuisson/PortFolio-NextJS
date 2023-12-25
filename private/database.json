@@ -11,21 +11,24 @@
   "projets": [
     {
       "id": 1,
-      "name": "projet1",
-      "description": "description1",
-      "image": "/img/DebuissonJulian.jpg"
+      "name": "Regression linéaire et logistique",
+      "description": "J'ai réalisé différentes régressions (linéaire, logistique et logistique multicouche) dans le cadre de l'étude de capteur analogiques (Exemple : thermomètre, capteur de niveau d'eau, etc...) avec le langage Python, mais sans l'utilisation de librairie externe.",
+      "contexte": "Stage",
+      "image": "/img/regression.jpg"
     },
     {
       "id": 2,
-      "name": "projet2",
-      "description": "description2",
-      "image": "/img/DebuissonJulian.jpg"
+      "name": "Projet Snake",
+      "description": "J'ai réalisé un modèle d'intelligence artificielle visant à apprendre à jouer au jeu Snake. Pour cela, j'ai utilisé la librairie externe PyTorch. En Python.",
+      "contexte": "Projet personnel",
+      "image": "/img/snake.jpg"
     },
     {
       "id": 3,
-      "name": "projet3",
-      "description": "description3",
-      "image": "/img/DebuissonJulian.jpg"
+      "name": "Lucothèque",
+      "description": "Avec une équipe de 4 personnes, nous avons réalisé une bibliothèque de jeux vidéo. Le front a été réalisé en Angular et le back en Laravel.",
+      "contexte": "Projet scolaire",
+      "image": "/img/vapeur.jpg"
     }
   ],
 

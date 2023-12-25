@@ -16,7 +16,7 @@ export function card(projet:Projet){
                 </div>
                 <div className="p-6">
                     <h6 className="mb-4 block font-sans text-base font-semibold uppercase leading-relaxed tracking-normal text-pink-500 antialiased max-h-[25rem]">
-                        startups
+                        {projet.contexte}
                     </h6>
                     <h4 className="mb-2 block font-sans text-2xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
                         {projet.name}
