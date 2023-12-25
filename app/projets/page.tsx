@@ -5,6 +5,7 @@ export interface Projet{
     id: number;
     name: string;
     description: string;
+    contexte:string;
     image: string|undefined;
 }
 
