@@ -5,7 +5,7 @@ export default function Memoire() {
     return(
         <div className="mt-6 ml-2">
             <h1>Mémoire :</h1>
-            {memoire.map((p) => (<div className= "mt-6"> {p} </div>))}
+            {memoire.map((p) => (<div className= "mt-6" key={1}> {p} </div>))}
         </div>
     )
 }
