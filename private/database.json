@@ -1,5 +1,11 @@
 {
   "Acceuille": "Bonjour, je m'appelle Julian Debuisson. Je suis un développeur étudiant en BUT Informatique à l'IUT de Lens. Je vais sur se site vous présenter mes projets et mes compétences.",
+  "email": "julian.debuisson2@gmail.com",
+
+  "memoire":[
+    "Grâce aux différentes fonctionnalités par Next.js, nous pouvons de califier d'\"éco friendly\". En effet, les fonctionnalités de rendu côté serveur (SSR) et de génération de sites statiques (SSG) de Next.js permettent de créer des sites avec des chargements rapides, nécessitant moins de ressources pour être rendus sur les navigateurs des utilisateurs. Cela peut entraîner une diminution de la consommation d'énergie, notamment pour les appareils mobiles. de plus, la possibilité de prérendre les pages avec Next.js peut réduire le besoin de calculs et de rendu côté client lors des visites, économisant ainsi des ressources.",
+    "Pour le respect de cette aspect \"éco friendly\", j'ai appliqué plusieurs principe a mon site. Premièrement, mon site n'est que statique (car je n'ai pas l'utilité de plus) ce qu limite les requetes et rafraîchissements. De plus, je limite la résolution des images et favorise le SVG et JPG sur le format des images (car ce sont des formats légers). Pour finir, j'utilise un thème sombre pour limiter la consommation d'énergie des écrans."
+  ],
 
 
   "projets": [
@@ -28,19 +34,55 @@
     {
       "id": 1,
       "name": "Python",
-      "image": "/img/Python.svg",
+      "image": "/img/python.svg",
+      "principale": true
+    },
+    {
+      "id": 6,
+      "name": "Java",
+      "image": "/img/java.svg",
+      "principale": true
+    },
+    {
+      "id": 7,
+      "name": "Numpy",
+      "image": "/img/numpy.svg",
       "principale": true
     },
     {
       "id": 2,
-      "name": "competence2",
-      "image": "/img/DebuissonJulian.jpg",
+      "name": "Laravel",
+      "image": "/img/laravel.svg",
       "principale": false
     },
     {
       "id": 3,
-      "name": "competence3",
-      "image": "/img/DebuissonJulian.jpg",
+      "name": "React",
+      "image": "/img/react.svg",
+      "principale": false
+    },
+    {
+      "id": 4,
+      "name": "Angular",
+      "image": "/img/angular.svg",
+      "principale": false
+    },
+    {
+      "id": 5,
+      "name": "Spring",
+      "image": "/img/spring.svg",
+      "principale": false
+    },
+    {
+      "id": 8,
+      "name": "PyTorch",
+      "image": "/img/pytorch.svg",
+      "principale": false
+    },
+    {
+      "id": 9,
+      "name": "Keras",
+      "image": "/img/keras.svg",
       "principale": false
     }
   ]
