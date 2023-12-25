@@ -8,7 +8,7 @@ export default function card(competence : Competence) {
             <Image
                 src={competence.image}
                 className={"h-56 w-56"}
-                alt="image"
+                alt={competence.name}
                 width={200}
                 height={200}
             />
