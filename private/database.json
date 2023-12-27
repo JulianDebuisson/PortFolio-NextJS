@@ -1,17 +1,17 @@
 {
-  "Acceuille": "Bonjour, je m'appelle Julian Debuisson. Je suis un développeur étudiant en BUT Informatique à l'IUT de Lens. Je vais sur se site vous présenter mes projets et mes compétences.",
+  "Acceuille": "Bonjour, je m'appelle Julian Debuisson. Je suis un développeur étudiant en BUT Informatique à l'IUT de Lens. Je vais sur ce site vous présenter mes projets et mes compétences.",
   "email": "julian.debuisson2@gmail.com",
 
   "memoire":[
     "Grâce aux différentes fonctionnalités par Next.js, nous pouvons de califier d'\"éco friendly\". En effet, les fonctionnalités de rendu côté serveur (SSR) et de génération de sites statiques (SSG) de Next.js permettent de créer des sites avec des chargements rapides, nécessitant moins de ressources pour être rendus sur les navigateurs des utilisateurs. Cela peut entraîner une diminution de la consommation d'énergie, notamment pour les appareils mobiles. de plus, la possibilité de prérendre les pages avec Next.js peut réduire le besoin de calculs et de rendu côté client lors des visites, économisant ainsi des ressources.",
-    "Pour le respect de cette aspect \"éco friendly\", j'ai appliqué plusieurs principe a mon site. Premièrement, mon site n'est que statique (car je n'ai pas l'utilité de plus) ce qu limite les requetes et rafraîchissements. De plus, je limite la résolution des images et favorise le SVG et JPG sur le format des images (car ce sont des formats légers). Pour finir, j'utilise un thème sombre pour limiter la consommation d'énergie des écrans."
+    "Pour le respect de cette aspect \"éco friendly\", j'ai appliqué plusieurs principes à mon site. Premièrement, mon site n'est que statique (car je n'ai pas l'utilité de plus) ce qui limite les requêtes et rafraîchissements. De plus, je limite la résolution des images et favorise le SVG et JPG sur le format des images (car ce sont des formats légers). Pour finir, j'utilise un thème sombre pour limiter la consommation d'énergie des écrans."
   ],
 
 
   "projets": [
     {
       "id": 1,
-      "name": "Regression linéaire et logistique",
+      "name": "Régression linéaire et logistique",
       "description": "J'ai réalisé différentes régressions (linéaire, logistique et logistique multicouche) dans le cadre de l'étude de capteur analogiques (Exemple : thermomètre, capteur de niveau d'eau, etc...) avec le langage Python, mais sans l'utilisation de librairie externe.",
       "contexte": "Stage",
       "image": "/img/regression.jpg"
@@ -25,7 +25,7 @@
     },
     {
       "id": 3,
-      "name": "Lucothèque",
+      "name": "Ludothèque",
       "description": "Avec une équipe de 4 personnes, nous avons réalisé une bibliothèque de jeux vidéo. Le front a été réalisé en Angular et le back en Laravel.",
       "contexte": "Projet scolaire",
       "image": "/img/vapeur.jpg"
